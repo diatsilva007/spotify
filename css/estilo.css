@@ -82,6 +82,18 @@ nav.navbar-transparente {
     color: black;
 }
 
+/* Estrutura de serviços
+------------------------------------------------*/
+#servicos {
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+
+.albuns {
+    padding: 10px 0;
+}
+
 /* Tipografia
 ------------------------------------------------*/
 h1 {
@@ -89,6 +101,10 @@ h1 {
     letter-spacing: -0.05em;
     margin-bottom: 50px;
     color: white;
+}
+
+p {
+    color: black;
 }
 
 /* Media Queries
