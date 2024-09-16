@@ -1,2 +1,2 @@
-# Proejto em construção 🚧
+# Projeto em construção 🚧
 ## Aguarde(m) ⏳
