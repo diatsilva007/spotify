@@ -139,6 +139,16 @@ footer h4 {
   text-transform: uppercase;
 }
 
+footer .navbar-nav a {
+  color: white;
+  font-size: 0.8em;
+}
+
+footer .navbar-nav a:hover {
+  color: #9bf0e1;
+  text-decoration: none;
+}
+
 
 /* Tipografia
 ------------------------------------------------*/
